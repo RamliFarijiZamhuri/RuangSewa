@@ -1,0 +1,6 @@
+{
+  "name": "RuangSewa",
+  "description": "Platform modern booking lapangan olahraga futsal, badminton, mini soccer, dan tenis secara real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
