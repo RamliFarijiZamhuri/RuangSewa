@@ -56,7 +56,7 @@ Pastikan perangkat Anda telah terinstal software berikut:
 Buka terminal dan jalankan perintah berikut untuk mengklon repositori ke komputer Anda:
 
 ```bash
-git clone [https://github.com/RamliFarijiZamhuri/RuangSewa.git](https://github.com/RamliFarijiZamhuri/RuangSewa.git)
+git clone https://github.com/RamliFarijiZamhuri/RuangSewa.git
 cd RuangSewa
 
 ### 2. Install Dependensi
